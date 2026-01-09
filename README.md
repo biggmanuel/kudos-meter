@@ -88,7 +88,7 @@ Run the test skipping the local validator:
 Bash
 
 anchor test --skip-local-validator
-📂 Project Structure
+```📂 Project Structure
 Plaintext
 
 kudos_meter/
@@ -100,6 +100,7 @@ kudos_meter/
 │   └── kudos_meter.ts       # TypeScript integration tests
 ├── Anchor.toml              # Configuration for network & scripts
 └── package.json             # Node dependencies
+```
 🛠 Tech Stack
 Blockchain: Solana (Devnet)
 
