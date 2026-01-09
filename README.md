@@ -44,7 +44,9 @@ graph TD
     end
     
     PDA -.->|Return| Client
-⚙️ How to Run
+``` 
+
+## ⚙️ How to Run
 Prerequisites
 Rust
 
