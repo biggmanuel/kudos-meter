@@ -85,10 +85,13 @@ Ensure your Anchor.toml is configured for Devnet.
 
 Run the test skipping the local validator:
 
-Bash
-
+```
 anchor test --skip-local-validator
-```📂 Project Structure
+```
+
+```
+📂 Project Structure
+
 kudos_meter/
 ├── programs/
 │   └── kudos_meter/
