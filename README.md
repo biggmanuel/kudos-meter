@@ -89,8 +89,6 @@ Bash
 
 anchor test --skip-local-validator
 ```📂 Project Structure
-Plaintext
-
 kudos_meter/
 ├── programs/
 │   └── kudos_meter/
