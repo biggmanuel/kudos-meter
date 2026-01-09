@@ -43,7 +43,7 @@ graph TD
         NewState -->|Save| PDA
     end
     
-    PDA -.->|Return| Client```
+    PDA -.->|Return| Client
 ⚙️ How to Run
 Prerequisites
 Rust
